@@ -1,0 +1,24 @@
+{
+  "name": "desafio-tecnico-paytrack",
+  "version": "1.0.0",
+  "description": "Desenvolver uma aplicação em Node.js que simule a sincronização de dados de \"Usuários/RH\", processando e consolidando as informações.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kaua-Martins/desafio-tecnico-paytrack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kaua-Martins/desafio-tecnico-paytrack/issues"
+  },
+  "homepage": "https://github.com/Kaua-Martins/desafio-tecnico-paytrack#readme",
+  "dependencies": {
+    "axios": "^1.13.5",
+    "sqlite3": "^5.1.7"
+  }
+}
