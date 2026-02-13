@@ -3,7 +3,7 @@ Desenvolver uma aplicação em Node.js que simule a sincronização de dados de 
 
 Este projeto realiza a integração de dados de usuários provenientes de uma API publica externa, aplica regras de validação e negócio, persiste os dados em banco de dados local e gera um relatório em formato .txt
 
-Tecnologias Usadas - Node.js, Axios e SQLite.
+Tecnologias Usadas - Node.js (v22.14.0), Axios e SQLite.
 
 Após clonar o repositório do git é necessário instalar as dependências utilizadas (Axios e Sqlite). Usando o comando "npm install" será feito a instalação das dependências.
 
