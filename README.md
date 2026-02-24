@@ -1,4 +1,4 @@
-# desafio-tecnico-paytrack
+
 Desenvolver uma aplicação em Node.js que simule a sincronização de dados de "Usuários/RH", processando e consolidando as informações.
 
 Este projeto realiza a integração de dados de usuários provenientes de uma API publica externa, aplica regras de validação e negócio, persiste os dados em banco de dados local e gera um relatório em formato .txt
